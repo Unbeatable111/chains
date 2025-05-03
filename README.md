@@ -7,7 +7,7 @@ The source data is in _data/chains. Each chain has its own file with the filenam
 ```json
 {
   "name": "Ethereum Mainnet",
-  "chain": "ETH",
+  "chain": "ETH",1115
   "rpc": [
     "https://mainnet.infura.io/v3/${INFURA_API_KEY}",
     "https://api.mycryptoapi.com/eth"
